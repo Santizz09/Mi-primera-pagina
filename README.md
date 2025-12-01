@@ -46,3 +46,6 @@ También aprendí que aunque Python es más fácil de usar, en el fondo el compu
 Referencias de IA
 
 ChatGPT: conversación sobre redacción y ayuda para el codigo relacionado. https://chatgpt.com/c/6911610d-bcdc-8332-9695-27bbdebc3933
+
+
+Implementando conocimiento para neustra tortuga /Tarea tortuga - Ejercicios Unidad 1.md
