@@ -15,9 +15,9 @@ Así podemos ver cómo las instrucciones que escribimos en un lenguaje entendibl
 "
 ## Mi primer programa en Python
 
-## Un programa es un conjunto de instrucciones que le decimos al computador para que las ejecute.
+Un programa es un conjunto de instrucciones que le decimos al computador para que las ejecute.
 
-## En este caso, haremos un pequeño programa que pide dos números al usuario y los suma.
+En este caso, haremos un pequeño programa que pide dos números al usuario y los suma.
 
 
 ## Pedimos los números
