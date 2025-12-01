@@ -13,28 +13,28 @@ Ejemplo de código en Python
 Le pide dos números al usuario, los suma y muestra el resultado.
 Así podemos ver cómo las instrucciones que escribimos en un lenguaje entendible para nosotros son traducidas internamente por el computador para realizar la operación.
 "
-# Mi primer programa en Python
+## Mi primer programa en Python
 
-# Un programa es un conjunto de instrucciones que le decimos al computador para que las ejecute.
+## Un programa es un conjunto de instrucciones que le decimos al computador para que las ejecute.
 
-# En este caso, haremos un pequeño programa que pide dos números al usuario y los suma.
+## En este caso, haremos un pequeño programa que pide dos números al usuario y los suma.
 
 
-# Pedimos los números
+## Pedimos los números
 num1 = int(input("Ingresa el primer número: "))
 num2 = int(input("Ingresa el segundo número: "))
 
 
-# Guardamos el resultado en una variable"
+## Guardamos el resultado en una variable"
 resultado = num1 + num2
 
 
-# Mostramos el resultado en pantalla
+## Mostramos el resultado en pantalla
 print("La suma de", num1, "y", num2, "es:", resultado)
 
 
-# Así, el computador toma nuestras instrucciones escritas en Python
-# y las traduce internamente a código binario (0s y 1s) para poder realizar la operación.
+## Así, el computador toma nuestras instrucciones escritas en Python
+## y las traduce internamente a código binario (0s y 1s) para poder realizar la operación.
 
 Reflexión personal
 
