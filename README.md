@@ -33,8 +33,7 @@ resultado = num1 + num2
 print("La suma de", num1, "y", num2, "es:", resultado)
 
 
-## Así, el computador toma nuestras instrucciones escritas en Python
-## y las traduce internamente a código binario (0s y 1s) para poder realizar la operación.
+Así, el computador toma nuestras instrucciones escritas en Python y las traduce internamente a código binario (0s y 1s) para poder realizar la operación.
 
 Reflexión personal
 
